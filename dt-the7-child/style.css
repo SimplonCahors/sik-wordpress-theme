@@ -39,3 +39,10 @@ flex-direction: column;
 		overflow-x:scroll;
 	}
 }
+
+/* description's tab hidden */
+
+#tab-title-description
+{
+	visibility: hidden;
+}
