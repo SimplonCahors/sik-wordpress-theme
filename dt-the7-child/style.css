@@ -21,6 +21,12 @@ Template: dt-the7
 	display:none
 }
 
+/*Pages Produits et Accessoires*/
+/*pour cacher le filtre menu déroulant*/
+.orderby{
+	display: none;
+}
+
 
 /*FOOTER SECTION*/
  
