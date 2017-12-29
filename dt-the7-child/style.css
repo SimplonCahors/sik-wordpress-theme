@@ -38,7 +38,7 @@ flex-direction: column;
 }
 
 /*Makes it so that the widget for the newsletter cannot be as large as the screen, a problem that could happen in responsive*/
-#custom_html-14{
+#custom_html-11{
 	max-width: 350px;
 }
 
