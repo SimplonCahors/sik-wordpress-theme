@@ -37,11 +37,13 @@ flex-direction: column;
 }
 }
 
-/*Makes it so that the widget for the newsletter cannot be as large as the screen, a problem that could happen in responsive*/
-#custom_html-11{
-	max-width: 350px;
+/*Newsletter widget width in medium-sized desk screens was too large and stepped on the next one*/
+#es_txt_name{
+	max-width: 100%;
 }
-
+#es_txt_email{
+	max-width: 100%;
+}
 /*END OF FOOTER SECTION*/
 
 /*Responsive tableau article*/
